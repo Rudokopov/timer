@@ -1,3 +1,3 @@
-# [timer](https://rudokopov.github.io/timer/)
+# [Timer](https://rudokopov.github.io/timer/)
 ***
 **Тестовое задание написать таймер**
